@@ -1,2 +1,2 @@
 # PostOffice
-A project in C#.net for inventory management of post office
+A mini project in dot net C# for inventory management of a post office.
